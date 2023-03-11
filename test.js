@@ -1,12 +1,8 @@
 ffffffasqfsjdfksdkfk
 fdsds
-fd
+
 fsdfdsfdfs
 
-sdfsdfsdf
-fsaster
-vjhjkll
-
-const = test-const
+dfsnst
 html {fhdg}
  main
